@@ -1,1 +1,1 @@
-console.log("hello world");
+console.log("Eu sou lindo, inteligente e persistente!");
